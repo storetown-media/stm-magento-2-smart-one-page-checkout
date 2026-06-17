@@ -1,0 +1,40 @@
+{
+    "name": "storetown/module-smart-one-page-checkout",
+    "description": "Commercial Magento 2 One Page Checkout extension — 4 layouts, 8 payment providers (Mollie, Stripe, PayPal, Klarna, Adyen, PayOne, Unzer, Amazon Pay), Hyvä-native & Luma-compatible, 11 languages, mobile-first. Module source delivered after purchase.",
+    "type": "metapackage",
+    "license": "proprietary",
+    "homepage": "https://www.storetown-media.de/stm-smart-one-page-checkout/",
+    "keywords": [
+        "magento2",
+        "magento-2",
+        "one-page-checkout",
+        "opc",
+        "checkout",
+        "one-step-checkout",
+        "hyva",
+        "adobe-commerce",
+        "mollie",
+        "stripe",
+        "paypal",
+        "klarna",
+        "adyen",
+        "magento-extension",
+        "checkout-extension"
+    ],
+    "authors": [
+        {
+            "name": "Storetown-Media",
+            "homepage": "https://www.storetown-media.de",
+            "role": "Vendor"
+        }
+    ],
+    "support": {
+        "email": "info@storetown-media.de",
+        "source": "https://github.com/storetown-media/stm-magento-2-smart-one-page-checkout",
+        "docs": "https://www.storetown-media.de/stm-smart-one-page-checkout/",
+        "issues": "https://github.com/storetown-media/stm-magento-2-smart-one-page-checkout/issues"
+    },
+    "require": {
+        "php": ">=8.1"
+    }
+}
